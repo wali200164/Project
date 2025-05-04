@@ -1,12 +1,12 @@
-Welcome!
+#Welcome!
 
-Description:
+##Description:
 This is a 3D top-down shooting game where the player controls a tank that engages in combat with enemy tanks.
 The objective is to destroy enemy tanks to earn points. Each enemy tank requires three hits to be destroyed. 
 Similarly, the player's tank can withstand three collisions with enemy tanks before being destroyed, resulting in game over. 
 A health bar is displayed above the player's tank to indicate its remaining durability.
 
-Player Tank:
+##Player Tank:
 The player tank can move left and right using the 'A' and 'D' keys. 
 The tank barrel can rotate along the X-axis using mouse input, allowing for precise aiming. 
 Pressing the Spacebar fires a bullet from the barrel. 
